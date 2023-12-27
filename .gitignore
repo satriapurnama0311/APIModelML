@@ -1,5 +1,5 @@
 old
-venv
+.venv
 forecast-smartharvest.json
 smartharvest2.h5
 test.rest
